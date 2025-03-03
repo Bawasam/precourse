@@ -1,0 +1,2 @@
+# a comand to add a file to repository 
+git add <file> 

@@ -1,0 +1,2 @@
+# a command to commit file to repository 
+git commit -m "message" 
