@@ -1,0 +1,2 @@
+# a command to create a branch file in a directory 
+git branch "branch name"
