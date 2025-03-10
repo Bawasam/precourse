@@ -1,0 +1,3 @@
+#!/usr/bin/sh
+touch <.filename>       // to hide file or dir
+

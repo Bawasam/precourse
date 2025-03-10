@@ -1,0 +1,4 @@
+#!/usr/bin/sh //shebang
+pwd // print work directory 
+// ** code . - to call a development environment 
+//**. bash shell mean born again shell 

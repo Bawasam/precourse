@@ -1,2 +1,2 @@
 #!/usr/bin/sh
-touch <file>
+touch <filename>
